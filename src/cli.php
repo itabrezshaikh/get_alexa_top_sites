@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/TopSites';
+require_once __DIR__ . '/TopSites.php';
 /**
  * Makes a request to ATS for the top 10 sites in a country
  */
