@@ -1,0 +1,17 @@
+{
+    "name": "itabrezshaikh/alexa_top_sites",
+    "type": "library",
+    "description": "to download Alexa Top Websites of a particular country with start to end rank range",
+    "keywords": ["Get Alexa Top Sites of country","Alexa Top Sites","Download Alexa Top Websites"],
+    "homepage": "http://tabrez.me/",
+    "authors": [
+        {
+            "name": "Tabby.",
+            "email": "itabrezshaikh@gmail.com",
+            "homepage": "https://github.com/itabrezshaikh",
+            "role": "Co-Founder/Developer."
+        }
+    ],
+    "require": {
+    }
+}
